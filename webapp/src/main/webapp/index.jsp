@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You </h1>
+   <h1> thanks you from prashobh chandra </h1>
    <br>
    <h1> best ci/cd from guru </h1>
    
